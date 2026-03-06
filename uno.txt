@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Primera línea
-=======
-Segunda línea
->>>>>>> RamaDos
-tercera línea
-uno
 HOLA
+
+dos
+
